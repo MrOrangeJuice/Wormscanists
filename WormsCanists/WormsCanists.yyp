@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -34,8 +34,15 @@
     "IDEVersion": "2023.6.0.89",
   },
   "resources": [
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sPalette","path":"sprites/sPalette/sPalette.yy",},},
+    {"id":{"name":"sWizardFall","path":"sprites/sWizardFall/sWizardFall.yy",},},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"sWizardJump","path":"sprites/sWizardJump/sWizardJump.yy",},},
+    {"id":{"name":"oWizard","path":"objects/oWizard/oWizard.yy",},},
     {"id":{"name":"sWizard","path":"sprites/sWizard/sWizard.yy",},},
+    {"id":{"name":"sWizardRun","path":"sprites/sWizardRun/sWizardRun.yy",},},
     {"id":{"name":"rTest","path":"rooms/rTest/rTest.yy",},},
   ],
   "RoomOrderNodes": [

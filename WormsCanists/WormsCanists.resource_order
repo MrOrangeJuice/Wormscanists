@@ -17,6 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sWall","order":5,"path":"sprites/sWall/sWall.yy",},
+    {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sPalette","order":1,"path":"sprites/sPalette/sPalette.yy",},
+    {"name":"sWizardFall","order":4,"path":"sprites/sWizardFall/sWizardFall.yy",},
+    {"name":"sWizardJump","order":3,"path":"sprites/sWizardJump/sWizardJump.yy",},
+    {"name":"oWizard","order":2,"path":"objects/oWizard/oWizard.yy",},
+    {"name":"sWizardRun","order":2,"path":"sprites/sWizardRun/sWizardRun.yy",},
   ],
 }

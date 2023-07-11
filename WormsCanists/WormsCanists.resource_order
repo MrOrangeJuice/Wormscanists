@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"sWall","order":5,"path":"sprites/sWall/sWall.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sTurnArrow","order":9,"path":"sprites/sTurnArrow/sTurnArrow.yy",},
     {"name":"sPalette","order":1,"path":"sprites/sPalette/sPalette.yy",},
     {"name":"sTileset","order":6,"path":"sprites/sTileset/sTileset.yy",},
     {"name":"sWizardFall","order":4,"path":"sprites/sWizardFall/sWizardFall.yy",},

@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"sTurnArrow","path":"sprites/sTurnArrow/sTurnArrow.yy",},},
     {"id":{"name":"sPalette","path":"sprites/sPalette/sPalette.yy",},},
     {"id":{"name":"sTileset","path":"sprites/sTileset/sTileset.yy",},},
     {"id":{"name":"sWizardFall","path":"sprites/sWizardFall/sWizardFall.yy",},},

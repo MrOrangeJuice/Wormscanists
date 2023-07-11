@@ -22,6 +22,8 @@
     {"name":"sPalette","order":1,"path":"sprites/sPalette/sPalette.yy",},
     {"name":"sTileset","order":6,"path":"sprites/sTileset/sTileset.yy",},
     {"name":"sWizardFall","order":4,"path":"sprites/sWizardFall/sWizardFall.yy",},
+    {"name":"sFireball","order":7,"path":"sprites/sFireball/sFireball.yy",},
+    {"name":"sFireExplosion","order":8,"path":"sprites/sFireExplosion/sFireExplosion.yy",},
     {"name":"sWizardJump","order":3,"path":"sprites/sWizardJump/sWizardJump.yy",},
     {"name":"oWizard","order":2,"path":"objects/oWizard/oWizard.yy",},
     {"name":"sWizardRun","order":2,"path":"sprites/sWizardRun/sWizardRun.yy",},

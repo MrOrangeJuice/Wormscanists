@@ -1,3 +1,2 @@
-turntimer = 0;
-gameStart = false;
-gameEnd = false;
+global.turn = 0;
+global.controller = 0;

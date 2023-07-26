@@ -6,9 +6,15 @@ vsp = 0;
 grv = 0.2;
 move = 0;
 walksp = 1;
-jumpStrength = 4;
+jumpStrength = 5;
 airborne = false;
 canJump = true;
+
+// Define inputs
+key_left = 0;
+key_right = 0;
+key_jump = 0;
+key_jump_released = 0;
 
 // Sprites
 idle = sWizard;

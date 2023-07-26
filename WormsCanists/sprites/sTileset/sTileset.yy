@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sTileset",
-  "bbox_bottom": 31,
+  "bbox_bottom": 63,
   "bbox_left": 0,
   "bbox_right": 127,
   "bbox_top": 0,

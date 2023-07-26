@@ -13,10 +13,10 @@
     {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":1,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":14,"path":"folders/Sprites.yy",},
-    {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
     {"name":"Wizard","order":10,"path":"folders/Sprites/Wizard.yy",},
     {"name":"Color 1","order":1,"path":"folders/Sprites/Wizard/Color 1.yy",},
     {"name":"Color 2","order":2,"path":"folders/Sprites/Wizard/Color 2.yy",},
+    {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sWall","order":5,"path":"sprites/sWall/sWall.yy",},

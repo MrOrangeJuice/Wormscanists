@@ -1,3 +1,9 @@
+// Check Death
+if(hp <= 0)
+{
+	instance_destroy();
+}
+
 /// @description Move
 
 if(global.turn == playerNum)

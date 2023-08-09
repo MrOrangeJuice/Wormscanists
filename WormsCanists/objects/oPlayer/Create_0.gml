@@ -16,6 +16,8 @@ key_right = 0;
 key_jump = 0;
 key_jump_released = 0;
 
+attackPressed = false;
+
 // Sprites
 idle = sWizard;
 run = sWizardRun;

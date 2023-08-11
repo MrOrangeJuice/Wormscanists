@@ -50,14 +50,16 @@ if(global.turn == playerNum)
 		key_fire = 1;
 		global.controller = 1;
 	}
-	
-	// Start aiming
+
 	if(key_fire)
 	{
+			
+		// Start aiming
 		if(!aiming)
 		{
 			aiming = true;	
 		}
+		// Fire
 		else
 		{
 			if(sprite_index > 0)
@@ -72,6 +74,10 @@ if(global.turn == playerNum)
 				fireball.direction = point_direction(x, y, mouse_x, mouse_y);
 				fireball.speed = 5; // Adjust the speed as needed
 			}
+			
+			global.turn++;
+			if(global.turn > global.players) global.turn = 0;
+			aiming = false;
 		}
 	}
 }

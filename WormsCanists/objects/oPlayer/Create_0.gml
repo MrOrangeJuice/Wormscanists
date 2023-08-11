@@ -18,6 +18,8 @@ key_jump_released = 0;
 
 attackPressed = false;
 
+aiming = false;
+
 // Sprites
 idle = sWizard;
 run = sWizardRun;

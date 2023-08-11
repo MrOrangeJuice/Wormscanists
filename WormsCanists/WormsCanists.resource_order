@@ -37,6 +37,7 @@
     {"name":"sWizardJumpGreen","order":2,"path":"sprites/sWizardJumpGreen/sWizardJumpGreen.yy",},
     {"name":"oFireballExplosion","order":7,"path":"objects/oFireballExplosion/oFireballExplosion.yy",},
     {"name":"sWizardJump","order":2,"path":"sprites/sWizardJump/sWizardJump.yy",},
+    {"name":"sAimArrow","order":12,"path":"sprites/sAimArrow/sAimArrow.yy",},
     {"name":"sWizardRun","order":3,"path":"sprites/sWizardRun/sWizardRun.yy",},
   ],
 }

@@ -13,8 +13,9 @@ if(global.turn == playerNum)
 	key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 	key_jump = keyboard_check(vk_space) || keyboard_check(ord("P")) || keyboard_check(ord("Z"));
 	key_jump_released = keyboard_check_released(vk_space) || keyboard_check_released(ord("P")) || keyboard_check_released(ord("Z"));
+	key_fire = mouse_check_button_pressed(mb_left);
 	
-	if(key_left || key_right || key_jump || key_jump_released)
+	if(key_left || key_right || key_jump || key_jump_released || key_fire)
 	{
 		global.controller = 0;
 	}
@@ -42,6 +43,36 @@ if(global.turn == playerNum)
 	{
 		key_jump_released = 1;
 		global.controller = 1;
+	}
+	
+	if(gamepad_button_check_pressed(gp_shoulderr,0))
+	{
+		key_fire = 1;
+		global.controller = 1;
+	}
+	
+	// Start aiming
+	if(key_fire)
+	{
+		if(!aiming)
+		{
+			aiming = true;	
+		}
+		else
+		{
+			if(sprite_index > 0)
+			{
+				var fireball = instance_create_depth(x+5, y, 1, oFireballProjectile);
+				fireball.direction = point_direction(x, y, mouse_x, mouse_y);
+				fireball.speed = 5; // Adjust the speed as needed
+			}
+			else if(sprite_index < 0)
+			{
+				var fireball = instance_create_depth(x-5, y, 1, oFireballProjectile);
+				fireball.direction = point_direction(x, y, mouse_x, mouse_y);
+				fireball.speed = 5; // Adjust the speed as needed
+			}
+		}
 	}
 }
 	

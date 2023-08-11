@@ -34,7 +34,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
@@ -57,6 +57,7 @@
     {"id":{"name":"oFireballExplosion","path":"objects/oFireballExplosion/oFireballExplosion.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"sWizardJump","path":"sprites/sWizardJump/sWizardJump.yy",},},
+    {"id":{"name":"sAimArrow","path":"sprites/sAimArrow/sAimArrow.yy",},},
     {"id":{"name":"sWizard","path":"sprites/sWizard/sWizard.yy",},},
     {"id":{"name":"sWizardRun","path":"sprites/sWizardRun/sWizardRun.yy",},},
     {"id":{"name":"tTileset","path":"tilesets/tTileset/tTileset.yy",},},

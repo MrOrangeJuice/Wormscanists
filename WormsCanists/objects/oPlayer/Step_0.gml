@@ -45,7 +45,7 @@ if(global.turn == playerNum)
 		global.controller = 1;
 	}
 	
-	if(gamepad_button_check_pressed(gp_shoulderr,0))
+	if(gamepad_button_check_pressed(0,gp_shoulderrb))
 	{
 		key_fire = 1;
 		global.controller = 1;

@@ -39,6 +39,7 @@
   "resources": [
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sAimIndicator","path":"sprites/sAimIndicator/sAimIndicator.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oFireballProjectile","path":"objects/oFireballProjectile/oFireballProjectile.yy",},},
     {"id":{"name":"oManager","path":"objects/oManager/oManager.yy",},},
@@ -50,6 +51,7 @@
     {"id":{"name":"sFireball","path":"sprites/sFireball/sFireball.yy",},},
     {"id":{"name":"oAimIndicator","path":"objects/oAimIndicator/oAimIndicator.yy",},},
     {"id":{"name":"sWizardRunGreen","path":"sprites/sWizardRunGreen/sWizardRunGreen.yy",},},
+    {"id":{"name":"rTesticle","path":"rooms/rTesticle/rTesticle.yy",},},
     {"id":{"name":"sFireExplosion","path":"sprites/sFireExplosion/sFireExplosion.yy",},},
     {"id":{"name":"sWizardFallGreen","path":"sprites/sWizardFallGreen/sWizardFallGreen.yy",},},
     {"id":{"name":"sWizardJumpGreen","path":"sprites/sWizardJumpGreen/sWizardJumpGreen.yy",},},
@@ -62,11 +64,13 @@
     {"id":{"name":"sAimArrow","path":"sprites/sAimArrow/sAimArrow.yy",},},
     {"id":{"name":"sWizard","path":"sprites/sWizard/sWizard.yy",},},
     {"id":{"name":"sWizardRun","path":"sprites/sWizardRun/sWizardRun.yy",},},
+    {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
     {"id":{"name":"tTileset","path":"tilesets/tTileset/tTileset.yy",},},
     {"id":{"name":"fUI","path":"fonts/fUI/fUI.yy",},},
     {"id":{"name":"rTest","path":"rooms/rTest/rTest.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rTesticle","path":"rooms/rTesticle/rTesticle.yy",},},
     {"roomId":{"name":"rTest","path":"rooms/rTest/rTest.yy",},},
   ],
   "TextureGroups": [

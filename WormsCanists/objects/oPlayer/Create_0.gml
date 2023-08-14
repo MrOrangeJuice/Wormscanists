@@ -19,6 +19,7 @@ key_jump_released = 0;
 aiming = false;
 aimPosX = 0;
 aimPosY = 0;
+aimHighlight = false;
 
 // Sprites
 idle = sWizard;

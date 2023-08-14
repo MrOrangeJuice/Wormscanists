@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oFireballExplosion",
+  "name": "oFireball",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Explosions",
-    "path": "folders/Objects/Explosions.yy",
+    "name": "Projectiles",
+    "path": "folders/Objects/Projectiles.yy",
   },
   "parentObjectId": {
-    "name": "oExplosion",
-    "path": "objects/oExplosion/oExplosion.yy",
+    "name": "oProjectile",
+    "path": "objects/oProjectile/oProjectile.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFireExplosion",
-    "path": "sprites/sFireExplosion/sFireExplosion.yy",
+    "name": "sFireball",
+    "path": "sprites/sFireball/sFireball.yy",
   },
   "spriteMaskId": null,
   "visible": true,

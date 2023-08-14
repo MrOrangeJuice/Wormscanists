@@ -74,9 +74,8 @@ if(global.turn == playerNum)
 			fireball.speed = 5; // Adjust the speed as needed
 			fireball.playerNum = playerNum;
 			
-			global.turn++;
-			if(global.turn > global.players) global.turn = 0;
-			aiming = false;
+			alarm[0] = room_speed * 0.05;
+			aimHighlight = true;
 		}
 	}
 }

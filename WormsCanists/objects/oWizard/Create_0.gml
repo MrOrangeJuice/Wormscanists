@@ -16,4 +16,16 @@ switch(palette)
 		jump = sWizardJumpGreen;
 		fall = sWizardFallGreen;
 		break;
+	case 2:
+		idle = sWizardBlue;
+		run = sWizardRunBlue;
+		jump = sWizardJumpBlue;
+		fall = sWizardFallBlue;
+		break;
+	case 3:
+		idle = sWizardOrange;
+		run = sWizardRunOrange;
+		jump = sWizardJumpOrange;
+		fall = sWizardFallOrange;
+		break;
 }

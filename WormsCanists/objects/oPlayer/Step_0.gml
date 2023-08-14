@@ -52,7 +52,8 @@ if(global.turn == playerNum)
 	}
 
 	if(key_fire)
-	{	
+	{
+			
 		// Start aiming
 		if(!aiming)
 		{
@@ -72,9 +73,9 @@ if(global.turn == playerNum)
 			}
 			fireball.speed = 5; // Adjust the speed as needed
 			
-			// Advance turn
-			aimHighlight = true;
-			alarm[0] = room_speed * 0.1;
+			global.turn++;
+			if(global.turn > global.players) global.turn = 0;
+			aiming = false;
 		}
 	}
 }

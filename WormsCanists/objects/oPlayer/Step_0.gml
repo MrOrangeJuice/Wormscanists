@@ -62,8 +62,8 @@ if(global.turn == playerNum)
 		// Fire
 		else
 		{
-			var fireball = instance_create_depth(x, y, 1, oFireballProjectile);
-			fireball.direction = point_direction(x, y, mouse_x, mouse_y);
+			var fireball = instance_create_depth(aimPosX, aimPosY, 1, oFireballProjectile);
+			fireball.direction = point_direction(aimPosX, aimPosY, mouse_x, mouse_y);
 			fireball.speed = 5; // Adjust the speed as needed
 			
 			global.turn++;

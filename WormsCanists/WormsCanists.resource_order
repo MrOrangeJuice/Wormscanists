@@ -27,6 +27,7 @@
     {"name":"oPlayer","order":4,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oFireballProjectile","order":6,"path":"objects/oFireballProjectile/oFireballProjectile.yy",},
     {"name":"oManager","order":3,"path":"objects/oManager/oManager.yy",},
+    {"name":"rMainMenu","order":4,"path":"rooms/rMainMenu/rMainMenu.yy",},
     {"name":"sTurnArrow","order":9,"path":"sprites/sTurnArrow/sTurnArrow.yy",},
     {"name":"sPalette","order":1,"path":"sprites/sPalette/sPalette.yy",},
     {"name":"sTileset","order":6,"path":"sprites/sTileset/sTileset.yy",},

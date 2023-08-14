@@ -21,13 +21,13 @@ if(global.turn == playerNum)
 	}
 	
 	// Controller Input
-	if(gamepad_button_check(0,gp_axislh) < -0.4 || gamepad_button_check(0,gp_padl))
+	if(gamepad_axis_value(0,gp_axislh) < -0.4 || gamepad_button_check(0,gp_padl))
 	{
 		key_left = 1;
 		global.controller = 1;
 	}
 	
-	if(gamepad_button_check(0,gp_axislh) > 0.4 || gamepad_button_check(0,gp_padr))
+	if(gamepad_axis_value(0,gp_axislh) > 0.4 || gamepad_button_check(0,gp_padr))
 	{
 		key_right = 1;
 		global.controller = 1;
@@ -63,7 +63,14 @@ if(global.turn == playerNum)
 		else
 		{
 			var fireball = instance_create_depth(aimPosX, aimPosY, 1, oFireballProjectile);
-			fireball.direction = point_direction(aimPosX, aimPosY, mouse_x, mouse_y);
+			if(global.controller)
+			{
+				fireball.direction = point_direction(0,0,gamepad_axis_value(0,gp_axisrh),gamepad_axis_value(0,gp_axisrv));
+			}
+			else
+			{
+				fireball.direction = point_direction(aimPosX, aimPosY, mouse_x, mouse_y);
+			}
 			fireball.speed = 5; // Adjust the speed as needed
 			
 			global.turn++;

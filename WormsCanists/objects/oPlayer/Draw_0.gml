@@ -8,7 +8,7 @@ if(aiming)
 	{
 		aimPosX = x + gamepad_axis_value(0, gp_axisrh) * 10;
 		aimPosY = y + gamepad_axis_value(0, gp_axisrv) * 10;
-		draw_sprite(sAimArrow, 0, aimPosX,aimPosY);
+		draw_sprite_ext(sAimArrow, 0, aimPosX,aimPosY,1,1,point_direction(0,0,gamepad_axis_value(0, gp_axisrh),gamepad_axis_value(0, gp_axisrv)),c_white,1);
 	}
 	else
 	{
@@ -21,6 +21,6 @@ if(aiming)
 		aimPosX = x -xDisp;
 		aimPosY = y -yDisp;
 		
-		draw_sprite(sAimArrow, 0, aimPosX, aimPosY);	
+		draw_sprite_ext(sAimArrow, 0, aimPosX,aimPosY,1,1,point_direction(aimPosX, aimPosY, mouse_x, mouse_y),c_white,1);	
 	}
 }

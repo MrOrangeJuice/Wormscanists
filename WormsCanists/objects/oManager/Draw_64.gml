@@ -1,3 +1,3 @@
 /// @description GUI
 draw_set_font(fUI);
-draw_text(16,16,"Turn: " + string(global.turn));
+draw_text(2,-4,"Turn: " + string(global.turn));

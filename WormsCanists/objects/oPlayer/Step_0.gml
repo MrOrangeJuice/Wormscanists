@@ -62,7 +62,7 @@ if(global.turn == playerNum)
 		// Fire
 		else
 		{
-			var fireball = instance_create_depth(aimPosX, aimPosY, 1, oFireballProjectile);
+			var fireball = instance_create_depth(aimPosX, aimPosY, 1, oFireball);
 			if(global.controller)
 			{
 				fireball.direction = point_direction(0,0,gamepad_axis_value(0,gp_axisrh),gamepad_axis_value(0,gp_axisrv));
@@ -72,6 +72,7 @@ if(global.turn == playerNum)
 				fireball.direction = point_direction(aimPosX, aimPosY, mouse_x, mouse_y);
 			}
 			fireball.speed = 5; // Adjust the speed as needed
+			fireball.playerNum = playerNum;
 			
 			global.turn++;
 			if(global.turn > global.players) global.turn = 0;

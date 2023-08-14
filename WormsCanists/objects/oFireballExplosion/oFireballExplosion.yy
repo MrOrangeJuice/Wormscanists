@@ -2,16 +2,17 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oFireballExplosion",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Explosions",
+    "path": "folders/Objects/Explosions.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oExplosion",
+    "path": "objects/oExplosion/oExplosion.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

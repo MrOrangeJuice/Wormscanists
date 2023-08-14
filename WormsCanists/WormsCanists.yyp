@@ -57,7 +57,6 @@
     {"id":{"name":"sWizardOrange","path":"sprites/sWizardOrange/sWizardOrange.yy",},},
     {"id":{"name":"sWizardRunOrange","path":"sprites/sWizardRunOrange/sWizardRunOrange.yy",},},
     {"id":{"name":"oProjectile","path":"objects/oProjectile/oProjectile.yy",},},
-    {"id":{"name":"sWizardGreen","path":"sprites/sWizardGreen/sWizardGreen.yy",},},
     {"id":{"name":"oManager","path":"objects/oManager/oManager.yy",},},
     {"id":{"name":"rMainMenu","path":"rooms/rMainMenu/rMainMenu.yy",},},
     {"id":{"name":"sWizardFallBlue","path":"sprites/sWizardFallBlue/sWizardFallBlue.yy",},},

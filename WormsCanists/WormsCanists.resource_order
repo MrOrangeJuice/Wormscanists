@@ -28,6 +28,7 @@
     {"name":"rMapSelect","order":3,"path":"rooms/rMapSelect/rMapSelect.yy",},
     {"name":"oPlayer","order":4,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oManager","order":3,"path":"objects/oManager/oManager.yy",},
+    {"name":"rMainMenu","order":4,"path":"rooms/rMainMenu/rMainMenu.yy",},
     {"name":"sTurnArrow","order":9,"path":"sprites/sTurnArrow/sTurnArrow.yy",},
     {"name":"oFireballExplosion","order":1,"path":"objects/oFireballExplosion/oFireballExplosion.yy",},
     {"name":"sPalette","order":1,"path":"sprites/sPalette/sPalette.yy",},

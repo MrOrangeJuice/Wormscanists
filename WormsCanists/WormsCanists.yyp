@@ -54,6 +54,7 @@
     {"id":{"name":"sWizardFallGreen","path":"sprites/sWizardFallGreen/sWizardFallGreen.yy",},},
     {"id":{"name":"sWizardJumpGreen","path":"sprites/sWizardJumpGreen/sWizardJumpGreen.yy",},},
     {"id":{"name":"sTileset2","path":"sprites/sTileset2/sTileset2.yy",},},
+    {"id":{"name":"sTileset3","path":"sprites/sTileset3/sTileset3.yy",},},
     {"id":{"name":"sWizardGreen","path":"sprites/sWizardGreen/sWizardGreen.yy",},},
     {"id":{"name":"oFireballExplosion","path":"objects/oFireballExplosion/oFireballExplosion.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},

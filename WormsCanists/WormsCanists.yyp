@@ -40,7 +40,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.6.0.89",
   },
   "resources": [
     {"id":{"name":"sWizardJumpBlue","path":"sprites/sWizardJumpBlue/sWizardJumpBlue.yy",},},
@@ -92,6 +92,7 @@
     {"id":{"name":"sWizardRun","path":"sprites/sWizardRun/sWizardRun.yy",},},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
     {"id":{"name":"sQuitButton","path":"sprites/sQuitButton/sQuitButton.yy",},},
+    {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"tTileset","path":"tilesets/tTileset/tTileset.yy",},},
     {"id":{"name":"fUI","path":"fonts/fUI/fUI.yy",},},
     {"id":{"name":"oChristmasMapButton","path":"objects/oChristmasMapButton/oChristmasMapButton.yy",},},

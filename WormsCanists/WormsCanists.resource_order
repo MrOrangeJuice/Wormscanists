@@ -61,6 +61,7 @@
     {"name":"sAimArrow","order":12,"path":"sprites/sAimArrow/sAimArrow.yy",},
     {"name":"sWizardRun","order":3,"path":"sprites/sWizardRun/sWizardRun.yy",},
     {"name":"TileSet3","order":2,"path":"tilesets/TileSet3/TileSet3.yy",},
+    {"name":"sBullet","order":16,"path":"sprites/sBullet/sBullet.yy",},
     {"name":"sWizardJumpOrange","order":2,"path":"sprites/sWizardJumpOrange/sWizardJumpOrange.yy",},
     {"name":"sWizardJumpGreen","order":1,"path":"sprites/sWizardJumpGreen/sWizardJumpGreen.yy",},
   ],

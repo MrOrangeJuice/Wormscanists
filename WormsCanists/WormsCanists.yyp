@@ -53,6 +53,7 @@
     {"id":{"name":"sWizardFallOrange","path":"sprites/sWizardFallOrange/sWizardFallOrange.yy",},},
     {"id":{"name":"rChristmasCactus","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},},
     {"id":{"name":"sBGLava","path":"sprites/sBGLava/sBGLava.yy",},},
+    {"id":{"name":"sLava","path":"sprites/sLava/sLava.yy",},},
     {"id":{"name":"rMapSelect","path":"rooms/rMapSelect/rMapSelect.yy",},},
     {"id":{"name":"oMapSelectButton","path":"objects/oMapSelectButton/oMapSelectButton.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},

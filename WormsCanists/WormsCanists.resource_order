@@ -32,6 +32,7 @@
     {"name":"sWizardFallOrange","order":1,"path":"sprites/sWizardFallOrange/sWizardFallOrange.yy",},
     {"name":"rChristmasCactus","order":2,"path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
     {"name":"sBGLava","order":19,"path":"sprites/sBGLava/sBGLava.yy",},
+    {"name":"sLava","order":21,"path":"sprites/sLava/sLava.yy",},
     {"name":"rMapSelect","order":3,"path":"rooms/rMapSelect/rMapSelect.yy",},
     {"name":"oMapSelectButton","order":3,"path":"objects/oMapSelectButton/oMapSelectButton.yy",},
     {"name":"oPlayer","order":4,"path":"objects/oPlayer/oPlayer.yy",},

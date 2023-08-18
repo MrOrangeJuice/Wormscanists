@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sMapSelectButton",
-  "bbox_bottom": 63,
+  "bbox_bottom": 31,
   "bbox_left": 0,
   "bbox_right": 63,
   "bbox_top": 0,
@@ -13,14 +13,15 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d2d34aa3-688e-425e-ab43-eca4e0a30f88",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f3747eab-d6a8-4099-b777-32ff0101f8a6",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2f028cbd-4ea7-48d5-b749-5c15e864fccb","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8c42a595-7620-4c5b-b1ce-ef9dd2c81450","blendMode":0,"displayName":"Layer 2","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2752dfae-1295-4f3f-ba4e-cbc96f32172d","blendMode":0,"displayName":"Layer 1","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +55,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d2d34aa3-688e-425e-ab43-eca4e0a30f88","path":"sprites/sMapSelectButton/sMapSelectButton.yy",},},},"Disabled":false,"id":"d2515734-a77e-4387-a12e-fd3570e44453","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f3747eab-d6a8-4099-b777-32ff0101f8a6","path":"sprites/sMapSelectButton/sMapSelectButton.yy",},},},"Disabled":false,"id":"ac5e3408-ccd3-473d-b444-d4892e1000c2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

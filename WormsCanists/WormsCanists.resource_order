@@ -79,5 +79,6 @@
     {"name":"oRightArrow","order":6,"path":"objects/oRightArrow/oRightArrow.yy",},
     {"name":"sWizardJumpOrange","order":2,"path":"sprites/sWizardJumpOrange/sWizardJumpOrange.yy",},
     {"name":"sWizardJumpGreen","order":1,"path":"sprites/sWizardJumpGreen/sWizardJumpGreen.yy",},
+    {"name":"AdvanceTurn","order":1,"path":"scripts/AdvanceTurn/AdvanceTurn.yy",},
   ],
 }

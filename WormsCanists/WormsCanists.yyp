@@ -46,6 +46,7 @@
     {"id":{"name":"sWizardJumpBlue","path":"sprites/sWizardJumpBlue/sWizardJumpBlue.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sMapSelectButton","path":"sprites/sMapSelectButton/sMapSelectButton.yy",},},
+    {"id":{"name":"SetupMatch","path":"scripts/SetupMatch/SetupMatch.yy",},},
     {"id":{"name":"sWizardRunGreen","path":"sprites/sWizardRunGreen/sWizardRunGreen.yy",},},
     {"id":{"name":"sAimIndicator","path":"sprites/sAimIndicator/sAimIndicator.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
@@ -114,6 +115,7 @@
     {"id":{"name":"sWizardJumpOrange","path":"sprites/sWizardJumpOrange/sWizardJumpOrange.yy",},},
     {"id":{"name":"sWizardBlue","path":"sprites/sWizardBlue/sWizardBlue.yy",},},
     {"id":{"name":"sWizardJumpGreen","path":"sprites/sWizardJumpGreen/sWizardJumpGreen.yy",},},
+    {"id":{"name":"AdvanceTurn","path":"scripts/AdvanceTurn/AdvanceTurn.yy",},},
     {"id":{"name":"rIce","path":"rooms/rIce/rIce.yy",},},
   ],
   "RoomOrderNodes": [

@@ -1,6 +1,8 @@
 // Check Death
 if(hp <= 0)
 {
+	global.playersAlive[playerNum] = false;
+	if(global.turn == playerNum) AdvanceTurn();
 	instance_destroy();
 }
 

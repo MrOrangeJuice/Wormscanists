@@ -1,9 +1,5 @@
 /// @description Check inputs
 
-if(room == rIce) global.players = 3;
-if(room == rLava) global.players = 2;
-if(room == rChristmasCactus) global.players = 1;
-
 key_endTurn = keyboard_check_pressed(vk_enter);
 
 if(key_endTurn)

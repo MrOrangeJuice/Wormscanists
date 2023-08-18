@@ -57,6 +57,7 @@
     {"id":{"name":"rMapSelect","path":"rooms/rMapSelect/rMapSelect.yy",},},
     {"id":{"name":"oMapSelectButton","path":"objects/oMapSelectButton/oMapSelectButton.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oLava","path":"objects/oLava/oLava.yy",},},
     {"id":{"name":"oIceMapButton","path":"objects/oIceMapButton/oIceMapButton.yy",},},
     {"id":{"name":"sWizardOrange","path":"sprites/sWizardOrange/sWizardOrange.yy",},},
     {"id":{"name":"oRockslab","path":"objects/oRockslab/oRockslab.yy",},},

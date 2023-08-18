@@ -11,7 +11,6 @@
     {"name":"inst_47C0A1B7_1_1","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
     {"name":"inst_68DCD049_1_1","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
     {"name":"inst_35E15F39_1_1","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
-    {"name":"inst_2AE3C778_1_1","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
     {"name":"inst_5861AD27_1_1","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
     {"name":"inst_44FFA844_1_1","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
     {"name":"inst_39A73C12","path":"rooms/rChristmasCactus/rChristmasCactus.yy",},
@@ -75,7 +74,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_47C0A1B7_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"rotation":0.0,"scaleX":28.000002,"scaleY":1.0,"x":16.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_68DCD049_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":-16.0,"x":464.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_35E15F39_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oWizard","path":"objects/oWizard/oWizard.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":240.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2AE3C778_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oManager","path":"objects/oManager/oManager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":208.0,"y":16.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5861AD27_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oWizard","path":"objects/oWizard/oWizard.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"propertyId":{"name":"palette","path":"objects/oPlayer/oPlayer.yy",},"value":"1",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"propertyId":{"name":"playerNum","path":"objects/oPlayer/oPlayer.yy",},"value":"1",},

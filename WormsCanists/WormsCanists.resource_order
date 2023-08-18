@@ -36,6 +36,7 @@
     {"name":"rMapSelect","order":3,"path":"rooms/rMapSelect/rMapSelect.yy",},
     {"name":"oMapSelectButton","order":3,"path":"objects/oMapSelectButton/oMapSelectButton.yy",},
     {"name":"oPlayer","order":4,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oLava","order":14,"path":"objects/oLava/oLava.yy",},
     {"name":"oIceMapButton","order":1,"path":"objects/oIceMapButton/oIceMapButton.yy",},
     {"name":"oRockslab","order":13,"path":"objects/oRockslab/oRockslab.yy",},
     {"name":"sWizardRunOrange","order":3,"path":"sprites/sWizardRunOrange/sWizardRunOrange.yy",},
